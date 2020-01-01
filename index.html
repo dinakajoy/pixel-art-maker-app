@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="./css/style.css">
+  <title>Pixel Art Maker</title>
+</head>
+<body>
+  <header class="header">
+    <h1>Pixel Art Maker</h1>
+  </header>
+
+  <main class="main">
+    <section>
+      <h2 class="main--heading">Please Select Desired Number Of Columns And Rows</h2>
+      <form action="">
+        <div class="pixelSize">
+          <label for="column" class="main--label">Column</label>
+          <input type="number" name="column" id="column" class="sp" value="0" min="0" max="100">
+          <label for="row" class="main--label">Row</label>
+          <input type="number" name="row" id="row" value="0" min="0" max="100">
+        </div>
+        <div>
+          <button type="submit" id="createPixel">Create</button>
+        </div>
+        <div>
+          <input type="color" name="color" id="color" class="pixelColor">
+        </div>
+      </form>
+    </section>
+    <section class="create-pixel">
+      <table id="table" class="table" style="margin-left: auto; margin-right: auto"></table>
+      <p id="output" class="output"></p>
+    </section>
+    <button class="reload" id="reload">Reload</button>
+  </main>
+
+  <footer class="footer">
+    <small>Developed By <cite class="footer__author"><a>Odinaka Joy</a></cite></small>
+  </footer>
+  <script src="./js/main.js"></script>
+</body>
+</html>
