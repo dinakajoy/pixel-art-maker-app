@@ -14,9 +14,9 @@ Start creating grids by clicking in the cells till desired pattern is created
 You can click 'Reload' to refresh page
 
 ## Built With
-HTML - For the markup
-CSS - For styling the user interface
-JavaScript - For functionality
+* HTML - For the markup
+* CSS - For styling the user interface
+* JavaScript - For functionality
 
 ## Link
 Access app via https://odinaka-joy.github.io/pixel-art-maker-app/
