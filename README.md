@@ -22,4 +22,4 @@ You can click 'Reload' to refresh page
 Access app via https://odinaka-joy.github.io/pixel-art-maker-app/
 
 ## Author
-[Odinaka Joy](https://odinaka-joy.github.io/my-portfolio/)
+[Odinaka Joy](https://odinaka-joy.github.io)
