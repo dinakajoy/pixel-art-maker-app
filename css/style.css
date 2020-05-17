@@ -68,19 +68,25 @@ button[type="submit"] {
   margin: 10px auto;
   cursor: pointer;
 }
-.reload {
+.reload, .refresh {
   background-color: var(--dark-color);
   color: var(--light-color);
   font-weight: bold;
   border: none;
   padding: 7px 30px;
   border-radius: 10px;
-  margin: 50px auto 10px;
+  margin: 50px 10px 10px;
   cursor: pointer;
   display: none;
 }
+.refresh {
+  background-color: rgb(3, 83, 7);
+}
+.reload {
+  background-color: rgb(80, 3, 3);
+}
 .output {
-  background-color: red;
+  background-color: rgb(80, 3, 3);
   color: #ffffff;
 }
 table {
