@@ -20,7 +20,7 @@ You can click 'Reload' to refresh page
 * JavaScript - For functionality
 
 ## Link
-Access app via https://odinaka-joy.github.io/pixel-art-maker-app/
+Access app via https://dinakajoy.github.io/pixel-art-maker-app/
 
 ## Author
 [Odinaka Joy](https://odinakajoy.com)
