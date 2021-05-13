@@ -1,4 +1,4 @@
-# pixel-art-maker-app
+# Pixel Art Maker App
 
 ## Description
 An application that dynamically creates a grid that users can interact with and create awesome colored grid patterns. Let's call it a Game App &#128515; where one can create beautiful and colorful grids or patterns   
